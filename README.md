@@ -2,3 +2,5 @@
 
 
 This is a cool file
+
+This is some text added on my computer
