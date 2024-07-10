@@ -1,6 +1,13 @@
 # Intro-to-GitHub-July-2024
 
 
-This is a cool file
+Cool Animals:
 
-This is some text added on my computer
+1.
+
+2.
+
+3.
+
+4.
+
